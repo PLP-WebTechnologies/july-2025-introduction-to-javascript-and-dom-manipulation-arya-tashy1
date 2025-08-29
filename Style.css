@@ -1,0 +1,12 @@
+body {
+  font-family: Arial, sans-serif;
+  padding: 20px;
+  background: pink;
+}
+h2 {
+  color: hsl(0, 84%, 59%);
+}
+.highlight {
+  background-color: yellow;
+  font-weight: bold;
+}
